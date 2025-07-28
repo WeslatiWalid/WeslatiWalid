@@ -4,7 +4,7 @@
 ---
 
 🌍 **Based in**: Tunisia 🇹🇳  
-💼 **Open to**: Remote Full-Time / Freelance Roles in Europe (France, Italy, Remote Worldwide)  
+💼 **Open to**: Remote Full-Time / Freelance Roles  
 📧 **Email**: [oueslatiwalid41@gmail.com](mailto:oueslatiwalid41@gmail.com)  
 🔗 **Portfolio/GitHub**: [github.com/weslatiwalid](https://github.com/weslatiwalid)
 
