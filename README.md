@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#007acc;">Walid Oueslati</span></h1>
-<h3 align="center">Full Stack Web Developer | JavaScript Enthusiast | Open to Remote Opportunities</h3>
+<h3 align="center">Full Stack Web Developer | JavaScript Enthusiast </h3>
 
 ---
 
